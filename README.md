@@ -23,4 +23,6 @@ companyUrl: http://www.h5course.com
 	 </code>
 </pre>
 ## introduce
-The detailed introduction about picPreload.js [picPreload.js introduction][]: http://www.h5course.com
+The detailed introduction about picPreload.js [picPreload.js introduction][1]
+
+[1]: http://www.h5course.com

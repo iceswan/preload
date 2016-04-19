@@ -32,12 +32,12 @@ preload({
 
 ## demo相关说明
 ### files
-The “files” in the preload function, is an array be used to save the pictures' url
+The “files” in the preload function is an array that is used to save the pictures' url.
 
 ### progress
-1. Function, run after each image be loaded
-2. Optional value
-3. Has two arguments, the first one be used to expressed the percentage, and the second one be used to return which image had be loaded.
+1. Function, the system will run the function after each picture is loaded.
+2. Optional value.
+3. Have two arguments.The first one shows the current loading percentage, and the second one returns the image which is loaded currently.
 
 ## introduce
 The detailed introduction about picPreload.js ——> [picPreload.js详细讲解][1]

@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>HTML5学堂 - H5course</title>
+</head>
+<body>
+	<div class="wrap"></div>
+	<script src='picPreload.js'></script>
+	<script>
+		var loadImg = []; // 创建一个数组，用于存储所有要预加载的图片路径
+		loadImg.push('test (1).jpg');
+		loadImg.push('test (2).jpg');
+		loadImg.push('test (3).jpg');
+		loadImg.push('test (4).jpg');
+
+		preload({
+			files : loadImg,
+			progress : function(precent, currentImg) {
+				console.log('当前加载' + currentImg + ', 百分比为' + precent + '%');
+			},
+			complete : function() {
+				console.log('我说我加载完了你信不？');
+			}
+	 	})
+	</script>
+</body>
+</html>

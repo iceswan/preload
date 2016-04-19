@@ -43,27 +43,11 @@ files为一个数组，用于存放需要加载的图片文件的路径
 
 
 
-## 后话
-第一次写中英文的说明文档，表示英语好久不用，掉的略严重啊~
-
+## 关于图片预加载
 关于图片预加载的基本知识和实现原理，我在原来的一篇文章中曾经书写过，如果希望了解此方面，可以点击 ——> [图片预加载][3]
 
-## picPreload.js
-update time: 2016.04.14 
-
-author: Liu Guoli
-
-organization: HTML5course
-
-companyUrl: http://www.h5course.com
-
-function: 
-
-### demo相关说明
-The “files” in the preload function, is an Array be used to save the pictures' url
-
-## introduce
-The detailed introduction about picPreload.js ——> [picPreload.js introduction][1]
+## 后话
+第一次写中英文的说明文档，表示英语好久不用，掉的略严重啊~
 
 
 [1]: http://www.h5course.com

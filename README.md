@@ -2,9 +2,8 @@
 ## picPreload.js
 update time: 2016.04.14 
 author: Liu Guoli
-company: HTML5 course
+company: HTML5course
 companyUrl: http://www.h5course.com
----
 ## demo
 <pre>
 	<code>
@@ -19,6 +18,5 @@ companyUrl: http://www.h5course.com
 	 	})
 	 </code>
 </pre>
----
 ## introduce
 The detailed introduction about picPreload.js [picPreload.js introduction]：http://www.h5course.com

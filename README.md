@@ -51,6 +51,6 @@ files为一个数组，用于存放需要加载的图片文件的路径
 第一次写中英文的说明文档，表示英语好久不用，忘的好严重啊~(英文文档是README - en.md)
 
 
-[1]: http://www.h5course.com
+[1]: http://www.h5course.com/a/20160420412.html
 [2]: http://www.h5course.com/a/20160406406.html
 [3]: http://www.h5course.com/a/20160408408.html

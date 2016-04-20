@@ -45,6 +45,6 @@ The detailed introduction about picPreload.js ——> [picPreload.js详细讲解
 ## About image preload
 The basic knowledge and principles of image preload is at [图片预加载][3]
 
-[1]: http://www.h5course.com
+[1]: http://www.h5course.com/a/20160420412.html
 [2]: http://www.h5course.com/a/20160406406.html
 [3]: http://www.h5course.com/a/20160408408.html
